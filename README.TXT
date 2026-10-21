@@ -7,7 +7,9 @@ to be easily portable to framebuffer devices with minimal depenencies.
 Runs on:
 * Plain desktop Linux framebuffer,
 * Siglent SSA 3021X Spectrum Analyzer,
-* Frosted OS
+* Frosted OS,
+* Kinco Green Series GL070HE HMI,
+* Kinco MT4434TE HMI
 
 To build (example):
 * cd fbdoom
